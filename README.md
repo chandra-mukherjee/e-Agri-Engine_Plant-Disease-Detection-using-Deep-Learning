@@ -1,4 +1,4 @@
-#  e-Agri Engine : Plant Disease Detection using Deep Learning
+#  E-Agri Engine : Plant Disease Detection using Deep Learning
 
 * Developed a full- stack deep learning-based solution to detect plant diseases from leaf images using Convolutional Neural Networks (CNN) built in PyTorch.
 * Utilized a dataset of 61,486 images across 35 plant species, employing data augmentation techniques (flipping, gamma correction, PCA, rotation, noise, scaling) to improve model generalization.
